@@ -151,7 +151,7 @@ A SaaS product built for content creators and script writers. Full-stack, mobile
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshJ173&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=58A6FF" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshJ173&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4&row=2" width="80%"/>
 </div>
 
 ---

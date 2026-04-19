@@ -151,12 +151,6 @@ A SaaS product built for content creators and script writers. Full-stack, mobile
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshJ173&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=4" width="80%"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="65%"/>
 </div>
 

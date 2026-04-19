@@ -1,103 +1,197 @@
-# Hey, I'm Adarsh
-
-I'm a 19-year-old B.Tech CSE student at Woxsen University in Hyderabad, India. I enjoy turning ideas into practical web apps and tools that solve real problems. Whether it's building a collaboration platform or an AI-driven nutrition guide, I focus on clean code, user-friendly designs, and getting things done on time. Always learning—right now, I'm diving deeper into data structures, full-stack workflows, and even some mobile dev.
-
-**Quick facts about me:**  
-- Passionate about problem-solving and tech that makes a difference.  
-- Committed to efficient, maintainable code without the fluff.  
-- Open to chats about projects, learning, or collaborations—feel free to reach out.
-
-### Skills I Work With
-These are the tools I use regularly for building and experimenting.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-        <br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-        <br>CSS3
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-        <br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-        <br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-        <br>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
-        <br>Express.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-        <br>MongoDB
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-        <br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-        <br>Next.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-        <br>TypeScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-        <br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
+<![CDATA[<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
 </div>
 
-### A Few Projects I've Built
-Here are some things I've worked on recently. I keep them straightforward and focused on usefulness.
-
-- **Vocabify**: A mobile app to boost your vocabulary with idioms, phrasal verbs, synonyms, and antonyms. It uses flashcards, quizzes, and spaced repetition to make learning stick. Built with Dart and Flutter for cross-platform support.  
-  [Check it out](https://github.com/AdarshJ173/Vocabify)
-
-- **Nutrify**: An AI-powered app that suggests personalized, affordable meals based on your needs. It connects to government resources and has a community space for sharing recipes.  
-  [Check it out](https://github.com/AdarshJ173/Nutrify)
-
-- **Sync-Sphere**: A platform for teams to collaborate in real-time—chat, share files, and manage tasks without the hassle. Emphasizes simple UI for remote work.  
-  [Check it out](https://github.com/AdarshJ173/Sync-Sphere)
-
-- **Portfolio Landing Page**: My personal site showcasing projects and skills. Clean design with easy navigation.  
-  [Check it out](https://github.com/AdarshJ173/Portfolio---Landing-Page)
-
-### What I'm Up To
-- Grinding DSA in C++ to sharpen my problem-solving.  
-- Leveling up full-stack skills, especially with React and Node.js.  
-- Sharing what I learn through content on Instagram and YouTube.  
-- Experimenting with app dev in Kotlin—aiming to build something small every couple of weeks.
-
-### Let's Connect
-Drop me a line if you want to talk code, ideas, or anything tech-related.  
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://aaj7.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-adarsh-jagannath-968147243)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codexaaj)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codexaaj)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.adarshjagannath_)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshjagannath777@gmail.com)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Adarsh+%F0%9F%91%8B;Builder+of+Browser-Native+AI;Full-Stack+%26+AI+Engineer;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshJ173&color=green" alt="Profile views">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=60%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <p>
+    <strong>20 · B.Tech CSE · Woxsen University, Hyderabad</strong><br/>
+    Building AI that lives in your browser. No cloud. No cost. Just yours.
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/a-adarsh-jagannath-968147243">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/codexaaj">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/codexaaj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@aaj_kikahani1110">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="http://aaj7.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:adarshjagannath777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AdarshJ173&style=flat-square&color=A78BFA&label=visitors"/>
+</div>
+
+<br/>
+
+---
+
+## ⚡ What I'm Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 RealmAI</h3>
+      <p>A browser-native AI companion — runs entirely in your tab using <strong>WebLLM (Gemma)</strong>, <strong>Whisper STT</strong>, <strong>Kokoro TTS</strong>, and a local memory engine with <strong>PGlite + MiniLM embeddings</strong>.<br/><br/>Zero API cost. Zero cloud. Fully private.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Oryan — <a href="https://oryan.in">oryan.in</a></h3>
+      <p>A SaaS product built for content creators and script writers. Full-stack, mobile-responsive, and designed with obsessive attention to UI/UX detail.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend & Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+**AI / Browser-Native**
+
+![WebGPU](https://img.shields.io/badge/WebGPU-FF6F00?style=flat-square&logo=google-chrome&logoColor=white)
+![WebLLM](https://img.shields.io/badge/WebLLM-A78BFA?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 🔭 Currently
+
+| | |
+|---|---|
+| 🔭 **Building** | RealmAI (browser-native AI) + Oryan SaaS |
+| 🌱 **Learning** | WebGPU · WebLLM · Next.js App Router · Voice pipelines |
+| 👯 **Open to collab on** | Browser-native AI · Local-first agents · Creator tools |
+| 🤝 **Need help with** | Hierarchical memory · Cross-session summarization · 2.5D UI/UX |
+| 💬 **Ask me about** | Zero-cost AI apps · Local-first architecture · SaaS building |
+| ⚡ **Fun fact** | I believe the most powerful AI won't live in the cloud — it'll live in your tab |
+
+---
+
+## 📦 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <strong><a href="https://github.com/AdarshJ173/Sync-Sphere">Sync-Sphere</a></strong><br/>
+      <sub>Real-time team collaboration platform — chat, files, tasks</sub>
+    </td>
+    <td align="center" width="200">
+      <strong><a href="https://github.com/AdarshJ173/Vocabify">Vocabify</a></strong><br/>
+      <sub>Flutter vocabulary app with spaced repetition & quizzes</sub>
+    </td>
+    <td align="center" width="200">
+      <strong><a href="https://github.com/AdarshJ173/Nutrify">Nutrify</a></strong><br/>
+      <sub>AI-powered personalized meal suggestions & community recipes</sub>
+    </td>
+    <td align="center" width="200">
+      <strong><a href="https://github.com/AdarshJ173/Portfolio---Landing-Page">Portfolio</a></strong><br/>
+      <sub>Personal site — clean design, fast, minimal</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdarshJ173&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshJ173&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/adarshjaga9">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+]]>

@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-<code>19</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>B.Tech CSE · Woxsen University</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Chennai, IN</code>
+<code>19</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>B.Tech CSE · Woxsen University</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Hyderabad, IN</code>
 </div>
 
 <br/><br/>

@@ -31,27 +31,12 @@
 
 <div align="center">
 
-```svg
-<svg width="800" height="2" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="30%"  stop-color="#c0c0c0" stop-opacity="0.6"/>
-      <stop offset="50%"  stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="70%"  stop-color="#c0c0c0" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="2" fill="url(#g)"/>
-</svg>
-```
-
 </div>
 
 <br/>
 
 <div align="center">
-  <strong>19 · B.Tech CSE · Woxsen University, Hyderabad</strong><br/>
+  <strong>20 · B.Tech CSE · Woxsen University, Hyderabad</strong><br/>
   <sub>I build AI automation systems that replace entire departments — using n8n, VAPI, and LLMs, wired together to generate revenue on autopilot.</sub>
 </div>
 

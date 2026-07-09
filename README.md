@@ -135,24 +135,6 @@ Client delivery systems that run without supervision.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3f3f46&icon_color=3f3f46&text_color=52525b&bg_color=09090b&custom_title=activity&ring_color=27272a" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&hide_border=true&title_color=3f3f46&text_color=52525b&bg_color=09090b" height="155"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=AdarshJ173&hide_border=true&background=09090b&stroke=18181b&ring=27272a&fire=3f3f46&currStreakLabel=52525b&sideLabels=3f3f46&dates=27272a&sideNums=71717a&currStreakNum=a1a1aa" width="50%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&hide_border=true&bg_color=09090b&color=27272a&line=1c1c24&point=3f3f46&area=true&area_color=111118" width="90%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
 > *build relentlessly. ship before you're ready. learn on the edge.*
 
 </div>

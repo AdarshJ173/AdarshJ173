@@ -33,21 +33,6 @@
 
 <img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/card-auto.svg" width="100%" alt="AI automation pipelines — n8n, VAPI, LLM routing"/>
 
-<br/><br/>
-
-<div align="center">
-
-  `open source & experiments`
-
-  [`kyklos`](https://github.com/AdarshJ173/kyklos) your custom browser · `TS` &nbsp;&nbsp;
-  [`KAIROS`](https://github.com/AdarshJ173/KAIROS) `TS` &nbsp;&nbsp;
-  [`ARCHIV.`](https://github.com/AdarshJ173/ARCHIV.) `TS` &nbsp;&nbsp;
-  [`Vocabify`](https://github.com/AdarshJ173/Vocabify) spaced-repetition vocab app · `Flutter` &nbsp;&nbsp;
-  [`infinitycanvas`](https://github.com/AdarshJ173/infinitycanvas) `TS` &nbsp;&nbsp;
-  [`Nutrify`](https://github.com/AdarshJ173/Nutrify) AI nutrition · `TS`
-
-</div>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/sec-stack.svg" width="100%" alt="02 — Stack"/>

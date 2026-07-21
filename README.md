@@ -80,8 +80,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=edeef2&text_color=7e8290&icon_color=ccff00&ring_color=26262e&count_private=true&rank_icon=percentile" height="165" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=edeef2&text_color=7e8290&langs_count=8&hide=html,css" height="165" alt="top languages"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshJ173&hide_border=true&background=0A0A0C&ring=CCFF00&fire=CCFF00&currStreakNum=EDEEF2&currStreakLabel=7E8290&sideNums=EDEEF2&sideLabels=7E8290&dates=55585F&stroke=26262E" alt="contribution streak"/>
   <br/><br/>

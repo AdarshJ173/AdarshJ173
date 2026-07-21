@@ -1,72 +1,94 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,30:111118,70:0f0f1a,100:09090b&height=180&section=header&text=A.%20Adarsh%20Jagannath&fontSize=42&fontColor=d4d4d8&animation=fadeIn&fontAlignY=40&desc=building+at+the+edge+of+what+runs+locally&descSize=13&descColor=52525b&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,30:111118,70:0f0f1a,100:09090b&height=200&section=header&text=A.%20Adarsh%20Jagannath&fontSize=46&fontColor=d4d4d8&animation=fadeIn&fontAlignY=42&desc=building+at+the+edge+of+what+runs+locally&descSize=14&descColor=52525b&descAlignY=62" width="100%"/>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=4000&pause=2500&color=52525B&center=true&vCenter=true&width=560&lines=AI+Automation+%C2%B7+Edge+LLM+%C2%B7+SaaS+Founder;n8n+%C2%B7+VAPI+%C2%B7+WebLLM+%C2%B7+LLM+routing;oryan.in+%C2%B7+mykami.in+%C2%B7+always+shipping" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=4000&pause=2500&color=52525B&center=true&vCenter=true&width=600&lines=AI+Automation+%C2%B7+Edge+LLM+%C2%B7+SaaS+Founder;n8n+%C2%B7+VAPI+%C2%B7+WebLLM+%C2%B7+LLM+Routing;GitHub+%C2%B7+Jira+%C2%B7+Slack+%C2%B7+Confluence+%C2%B7+Hugging+Face;oryan.in+%C2%B7+mykami.in+%C2%B7+always+shipping" alt="typing svg"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b)](https://www.linkedin.com/in/a-adarsh-jagannath-968147243)
-[![](https://img.shields.io/badge/X-09090b?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=09090b)](https://twitter.com/codexaaj)
-[![](https://img.shields.io/badge/Instagram-09090b?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=09090b)](https://www.instagram.com/codexaaj)
-[![](https://img.shields.io/badge/YouTube-09090b?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=09090b)](https://youtube.com/@aaj_kikahani1110)
-[![](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=09090b)](http://aaj7.vercel.app)
-[![](https://img.shields.io/badge/Mail-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=09090b)](mailto:adarshjagannath777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b)](https://www.linkedin.com/in/a-adarsh-jagannath-968147243)
+[![X](https://img.shields.io/badge/X-09090b?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=09090b)](https://twitter.com/codexaaj)
+[![Instagram](https://img.shields.io/badge/Instagram-09090b?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=09090b)](https://www.instagram.com/codexaaj)
+[![YouTube](https://img.shields.io/badge/YouTube-09090b?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=09090b)](https://youtube.com/@aaj_kikahani1110)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=09090b)](http://aaj7.vercel.app)
+[![Mail](https://img.shields.io/badge/Mail-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=09090b)](mailto:adarshjagannath777@gmail.com)
 
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AdarshJ173&style=for-the-badge&color=18181b&label=VIEWS"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:111118,100:09090b&height=1&width=700" width="700"/>
+<img src="https://komarev.com/ghpvc/?username=AdarshJ173&style=for-the-badge&color=18181b&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
 
 <div align="center">
-<code>20</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>B.Tech CSE · Woxsen University</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Hyderabad, IN</code>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:1c1c2e,100:09090b&height=1&width=760" width="760"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <code>20 y/o</code> &nbsp;·&nbsp; <code>B.Tech CSE · Woxsen University</code> &nbsp;·&nbsp; <code>Hyderabad, IN</code> &nbsp;·&nbsp; <code>@AAJ</code>
 </div>
 
 <br/><br/>
 
 ---
 
+## 🎬 &nbsp;watch
+
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" width="760">
-<tr>
-<td align="center" width="370">
+<a href="https://drive.google.com/file/d/1cLRNEVDIWTJ-z81hik49kTaeRTNehUry/view?usp=sharing">
+  <img src="https://img.shields.io/badge/▶%20%20Watch%20the%20Build%20Reel-18181b?style=for-the-badge&logo=googledrive&logoColor=4285F4&labelColor=09090b" height="44"/>
+</a>
 
-<img src="https://img.shields.io/badge/─────────────────────────────-09090b?style=flat-square&logoColor=ffffff" width="100%"/>
+<br/><br/>
+
+<a href="https://drive.google.com/file/d/1cLRNEVDIWTJ-z81hik49kTaeRTNehUry/view?usp=sharing">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d14,100:0d0d14&height=120&text=▶%20%20Play%20Build%20Reel&fontSize=28&fontColor=d4d4d8&animation=fadeIn" width="600" style="border-radius:12px; border: 1px solid #27272a;"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+---
+
+## ⚡ &nbsp;projects
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="20" width="760">
+<tr>
+<td align="center" width="360" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
 
 ### [oryan.in](https://oryan.in)
 
-<img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=007ACC"/>
 
-SaaS for content creators and scriptwriters.\
-Full-stack, mobile-first, obsessive UI/UX.\
+SaaS for content creators and scriptwriters.<br/>
+Full-stack. Mobile-first. Obsessive UI/UX.<br/>
 Designed from first principles. Shipping.
 
 </td>
 <td width="20"></td>
-<td align="center" width="370">
-
-<img src="https://img.shields.io/badge/─────────────────────────────-09090b?style=flat-square&logoColor=ffffff" width="100%"/>
+<td align="center" width="360" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
 
 ### [mykami.in](https://mykami.in)
 
-<img src="https://img.shields.io/badge/WebLLM-09090b?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/PGlite-09090b?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MiniLM-09090b?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/WebLLM-09090b?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PGlite-09090b?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MiniLM-09090b?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
 
-Local edge LLM with persistent memory.\
-Runs entirely on-device. Zero cloud. Zero API cost.\
+Local edge LLM with persistent memory.<br/>
+Runs entirely on-device. Zero cloud. Zero API cost.<br/>
 No key. No latency. No trace.
 
 </td>
@@ -79,14 +101,14 @@ No key. No latency. No trace.
 
 <div align="center">
 
-<table border="0" width="760" cellspacing="0" cellpadding="16">
+<table border="0" width="760" cellspacing="0" cellpadding="20">
 <tr>
 <td align="center" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
 
 <img src="https://img.shields.io/badge/AI%20AUTOMATION%20SYSTEMS-18181b?style=for-the-badge&labelColor=18181b&color=18181b"/>
 
-`n8n` multi-workflow orchestration &nbsp;·&nbsp; `VAPI` voice agents &nbsp;·&nbsp; LLM routing\
-Google Sheets pipelines &nbsp;·&nbsp; Docker-containerized &nbsp;·&nbsp; Telegram-integrated\
+`n8n` multi-workflow orchestration &nbsp;·&nbsp; `VAPI` voice agents &nbsp;·&nbsp; LLM routing<br/>
+Google Sheets pipelines &nbsp;·&nbsp; Docker-containerized &nbsp;·&nbsp; Telegram-integrated<br/>
 Client delivery systems that run without supervision.
 
 </td>
@@ -98,6 +120,34 @@ Client delivery systems that run without supervision.
 <br/><br/>
 
 ---
+
+## 🔗 &nbsp;integrations
+
+<div align="center">
+
+*tools I build with, automate across, and ship through*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=flat-square&logo=github&logoColor=white)](https://github.com/AdarshJ173)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](#)
+[![YouTube Analytics](https://img.shields.io/badge/YouTube%20Analytics-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+[![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+[![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)](#)
+[![Google Business Profile](https://img.shields.io/badge/Business%20Profile-34A853?style=flat-square&logo=google&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=09090b)](#)
+[![Context7](https://img.shields.io/badge/Context7-09090b?style=flat-square&logo=openai&logoColor=a1a1aa)](#)
+[![Academic](https://img.shields.io/badge/Academic%20Research-09090b?style=flat-square&logo=googlescholar&logoColor=4285F4)](#)
+
+</div>
+
+<br/><br/>
+
+---
+
+## 🛠️ &nbsp;stack
 
 <div align="center">
 
@@ -133,6 +183,32 @@ Client delivery systems that run without supervision.
 
 ---
 
+## 📊 &nbsp;github
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&hide_border=true&bg_color=09090b&title_color=d4d4d8&text_color=71717a&icon_color=52525b&ring_color=27272a&count_private=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&hide_border=true&bg_color=09090b&title_color=d4d4d8&text_color=71717a&langs_count=8" height="160"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshJ173&hide_border=true&background=09090b&ring=27272a&fire=d4d4d8&currStreakLabel=71717a&sideLabels=71717a&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=52525b" height="150"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&bg_color=09090b&color=52525b&line=27272a&point=71717a&hide_border=true&area=true&area_color=18181b" width="100%"/>
+</div>
+
+<br/><br/>
+
+---
+
 <div align="center">
 
 > *build relentlessly. ship before you're ready. learn on the edge.*
@@ -143,10 +219,10 @@ Client delivery systems that run without supervision.
 
 <div align="center">
 <a href="https://buymeacoffee.com/adarshjaga9">
-<img src="https://img.shields.io/badge/buy%20me%20a%20coffee-09090b?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
+  <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-09090b?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
 </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0f0f1a,100:09090b&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0f0f1a,100:09090b&height=120&section=footer&animation=fadeIn" width="100%"/>

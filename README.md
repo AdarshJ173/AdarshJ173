@@ -80,7 +80,6 @@
 
 <div align="center">
   <br/>
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshJ173&hide_border=true&background=0A0A0C&ring=CCFF00&fire=CCFF00&currStreakNum=EDEEF2&currStreakLabel=7E8290&sideNums=EDEEF2&sideLabels=7E8290&dates=55585F&stroke=26262E" alt="contribution streak"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&bg_color=0a0a0c&color=7e8290&line=ccff00&point=edeef2&area=true&area_color=1a2200&hide_border=true&radius=16" width="100%" alt="contribution activity graph"/>

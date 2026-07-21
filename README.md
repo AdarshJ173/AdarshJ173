@@ -1,228 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,30:111118,70:0f0f1a,100:09090b&height=200&section=header&text=A.%20Adarsh%20Jagannath&fontSize=46&fontColor=d4d4d8&animation=fadeIn&fontAlignY=42&desc=building+at+the+edge+of+what+runs+locally&descSize=14&descColor=52525b&descAlignY=62" width="100%"/>
+<!-- ─────────────────────────────────────────────────────────────
+     A. ADARSH JAGANNATH — profile system v1.0
+     custom-built · hand-coded SVG assets · embedded type
+     palette: void 0A0A0C / carbon 121217 / line 26262E
+              mute 7E8290 / bone EDEEF2 / acid CCFF00
+     type:    Space Grotesk 700/500 · JetBrains Mono 400/600
+     ───────────────────────────────────────────────────────────── -->
 
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=4000&pause=2500&color=52525B&center=true&vCenter=true&width=600&lines=AI+Automation+%C2%B7+Edge+LLM+%C2%B7+SaaS+Founder;n8n+%C2%B7+VAPI+%C2%B7+WebLLM+%C2%B7+LLM+Routing;GitHub+%C2%B7+Jira+%C2%B7+Slack+%C2%B7+Confluence+%C2%B7+Hugging+Face;oryan.in+%C2%B7+mykami.in+%C2%B7+always+shipping" alt="typing svg"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b)](https://www.linkedin.com/in/a-adarsh-jagannath-968147243)
-[![X](https://img.shields.io/badge/X-09090b?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=09090b)](https://twitter.com/codexaaj)
-[![Instagram](https://img.shields.io/badge/Instagram-09090b?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=09090b)](https://www.instagram.com/codexaaj)
-[![YouTube](https://img.shields.io/badge/YouTube-09090b?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=09090b)](https://youtube.com/@aaj_kikahani1110)
-[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=09090b)](http://aaj7.vercel.app)
-[![Mail](https://img.shields.io/badge/Mail-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=09090b)](mailto:adarshjagannath777@gmail.com)
-
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AdarshJ173&style=for-the-badge&color=18181b&label=PROFILE+VIEWS"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:1c1c2e,100:09090b&height=1&width=760" width="760"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <code>20 y/o</code> &nbsp;·&nbsp; <code>B.Tech CSE · Woxsen University</code> &nbsp;·&nbsp; <code>Hyderabad, IN</code> &nbsp;·&nbsp; <code>@AAJ</code>
-</div>
-
-<br/><br/>
-
----
-
-## 🎬 &nbsp;watch
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/1cLRNEVDIWTJ-z81hik49kTaeRTNehUry/view?usp=sharing">
-  <img src="https://img.shields.io/badge/▶%20%20Watch%20the%20Build%20Reel-18181b?style=for-the-badge&logo=googledrive&logoColor=4285F4&labelColor=09090b" height="44"/>
+<a href="https://aaj7.vercel.app">
+  <img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/hero.svg" width="100%" alt="A. Adarsh Jagannath — automation engineer, full-stack developer, founder"/>
 </a>
 
-<br/><br/>
-
-<a href="https://drive.google.com/file/d/1cLRNEVDIWTJ-z81hik49kTaeRTNehUry/view?usp=sharing">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d14,100:0d0d14&height=120&text=▶%20%20Play%20Build%20Reel&fontSize=28&fontColor=d4d4d8&animation=fadeIn" width="600" style="border-radius:12px; border: 1px solid #27272a;"/>
-</a>
-
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/a-adarsh-jagannath-968147243"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0C" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/codexaaj"><img src="https://img.shields.io/badge/X-0A0A0C?style=for-the-badge&logo=x&logoColor=EDEEF2&labelColor=0A0A0C" alt="X"/></a>
+  <a href="https://www.instagram.com/codexaaj"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0A0A0C" alt="Instagram"/></a>
+  <a href="https://youtube.com/@aaj_kikahani1110"><img src="https://img.shields.io/badge/YouTube-0A0A0C?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0A0A0C" alt="YouTube"/></a>
+  <a href="https://aaj7.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0C?style=for-the-badge&logo=vercel&logoColor=EDEEF2&labelColor=0A0A0C" alt="Portfolio"/></a>
+  <a href="mailto:adarshjagannath777@gmail.com"><img src="https://img.shields.io/badge/Mail-0A0A0C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0A0C" alt="Mail"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=AdarshJ173&style=for-the-badge&color=1a2200&label=SIGNALS+RECEIVED" alt="profile views"/>
 </div>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-work.svg" width="100%" alt="01 — Work"/>
+
+<p align="center">
+  <a href="https://oryan.in"><img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/card-oryan.svg" width="49%" alt="oryan.in — SaaS for content creators and scriptwriters"/></a>
+  <a href="https://mykami.in"><img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/card-kami.svg" width="49%" alt="mykami.in — local edge LLM with persistent memory"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/card-auto.svg" width="100%" alt="AI automation pipelines — n8n, VAPI, LLM routing"/>
+
 <br/><br/>
-
----
-
-## ⚡ &nbsp;projects
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="20" width="760">
-<tr>
-<td align="center" width="360" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
+  `open source & experiments`
 
-### [oryan.in](https://oryan.in)
-
-<img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=007ACC"/>
-
-SaaS for content creators and scriptwriters.<br/>
-Full-stack. Mobile-first. Obsessive UI/UX.<br/>
-Designed from first principles. Shipping.
-
-</td>
-<td width="20"></td>
-<td align="center" width="360" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
-
-### [mykami.in](https://mykami.in)
-
-<img src="https://img.shields.io/badge/WebLLM-09090b?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/PGlite-09090b?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MiniLM-09090b?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-
-Local edge LLM with persistent memory.<br/>
-Runs entirely on-device. Zero cloud. Zero API cost.<br/>
-No key. No latency. No trace.
-
-</td>
-</tr>
-</table>
+  [`kyklos`](https://github.com/AdarshJ173/kyklos) your custom browser · `TS` &nbsp;&nbsp;
+  [`KAIROS`](https://github.com/AdarshJ173/KAIROS) `TS` &nbsp;&nbsp;
+  [`ARCHIV.`](https://github.com/AdarshJ173/ARCHIV.) `TS` &nbsp;&nbsp;
+  [`Vocabify`](https://github.com/AdarshJ173/Vocabify) spaced-repetition vocab app · `Flutter` &nbsp;&nbsp;
+  [`infinitycanvas`](https://github.com/AdarshJ173/infinitycanvas) `TS` &nbsp;&nbsp;
+  [`Nutrify`](https://github.com/AdarshJ173/Nutrify) AI nutrition · `TS`
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<table border="0" width="760" cellspacing="0" cellpadding="20">
-<tr>
-<td align="center" bgcolor="#0d0d14" style="border-radius:12px; border: 1px solid #27272a;">
-
-<img src="https://img.shields.io/badge/AI%20AUTOMATION%20SYSTEMS-18181b?style=for-the-badge&labelColor=18181b&color=18181b"/>
-
-`n8n` multi-workflow orchestration &nbsp;·&nbsp; `VAPI` voice agents &nbsp;·&nbsp; LLM routing<br/>
-Google Sheets pipelines &nbsp;·&nbsp; Docker-containerized &nbsp;·&nbsp; Telegram-integrated<br/>
-Client delivery systems that run without supervision.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/><br/>
-
----
-
-## 🔗 &nbsp;integrations
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-stack.svg" width="100%" alt="02 — Stack"/>
 
 <div align="center">
-
-*tools I build with, automate across, and ship through*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=flat-square&logo=github&logoColor=white)](https://github.com/AdarshJ173)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](#)
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](#)
-[![YouTube Analytics](https://img.shields.io/badge/YouTube%20Analytics-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-[![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-[![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)](#)
-[![Google Business Profile](https://img.shields.io/badge/Business%20Profile-34A853?style=flat-square&logo=google&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=09090b)](#)
-[![Context7](https://img.shields.io/badge/Context7-09090b?style=flat-square&logo=openai&logoColor=a1a1aa)](#)
-[![Academic](https://img.shields.io/badge/Academic%20Research-09090b?style=flat-square&logo=googlescholar&logoColor=4285F4)](#)
-
-</div>
-
-<br/><br/>
-
----
-
-## 🛠️ &nbsp;stack
-
-<div align="center">
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![VAPI](https://img.shields.io/badge/VAPI-18181b?style=flat-square&logo=googlepodcasts&logoColor=a1a1aa)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=09090b)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=09090b)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-09090b?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-09090b?style=flat-square&logo=openai&logoColor=a1a1aa)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=09090b)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-
-</div>
-
-<br/><br/>
-
----
-
-## 📊 &nbsp;github
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&hide_border=true&bg_color=09090b&title_color=d4d4d8&text_color=71717a&icon_color=52525b&ring_color=27272a&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&hide_border=true&bg_color=09090b&title_color=d4d4d8&text_color=71717a&langs_count=8" height="160"/>
-
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,java,react,nextjs,tailwind,flutter&theme=dark" alt="languages and frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb,postgres,docker,githubactions,vercel,cloudflare,figma&theme=dark" alt="runtime and infra"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/n8n-0A0A0C?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=0A0A0C" alt="n8n"/>
+  <img src="https://img.shields.io/badge/VAPI-0A0A0C?style=for-the-badge&logo=googleassistant&logoColor=CCFF00&labelColor=0A0A0C" alt="VAPI"/>
+  <img src="https://img.shields.io/badge/WebLLM-0A0A0C?style=for-the-badge&logo=onnx&logoColor=EDEEF2&labelColor=0A0A0C" alt="WebLLM"/>
+  <img src="https://img.shields.io/badge/OpenRouter-0A0A0C?style=for-the-badge&logo=openai&logoColor=7E8290&labelColor=0A0A0C" alt="OpenRouter"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0A0A0C?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0A0A0C" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Telegram-0A0A0C?style=for-the-badge&logo=telegram&logoColor=2CA5E0&labelColor=0A0A0C" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/tmux-0A0A0C?style=for-the-badge&logo=tmux&logoColor=1BB91F&labelColor=0A0A0C" alt="tmux"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Jira-0A0A0C?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0A0A0C" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-0A0A0C?style=for-the-badge&logo=confluence&logoColor=2684FF&labelColor=0A0A0C" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Slack-0A0A0C?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=0A0A0C" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-0A0A0C?style=for-the-badge&logo=googlesheets&logoColor=34A853&labelColor=0A0A0C" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Search%20Console-0A0A0C?style=for-the-badge&logo=googlesearchconsole&logoColor=4285F4&labelColor=0A0A0C" alt="Google Search Console"/>
+  <img src="https://img.shields.io/badge/YouTube%20Data%20API-0A0A0C?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0A0A0C" alt="YouTube Data API"/>
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-signals.svg" width="100%" alt="03 — Signals"/>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshJ173&hide_border=true&background=09090b&ring=27272a&fire=d4d4d8&currStreakLabel=71717a&sideLabels=71717a&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=52525b" height="150"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshJ173&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=edeef2&text_color=7e8290&icon_color=ccff00&ring_color=26262e&count_private=true&rank_icon=percentile" height="165" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJ173&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=edeef2&text_color=7e8290&langs_count=8&hide=html,css" height="165" alt="top languages"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshJ173&hide_border=true&background=0A0A0C&ring=CCFF00&fire=CCFF00&currStreakNum=EDEEF2&currStreakLabel=7E8290&sideNums=EDEEF2&sideLabels=7E8290&dates=55585F&stroke=26262E" alt="contribution streak"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&bg_color=0a0a0c&color=7e8290&line=ccff00&point=edeef2&area=true&area_color=1a2200&hide_border=true&radius=16" width="100%" alt="contribution activity graph"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/output/snake.svg" width="100%" alt="contribution snake"/>
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshJ173&bg_color=09090b&color=52525b&line=27272a&point=71717a&hide_border=true&area=true&area_color=18181b" width="100%"/>
-</div>
-
-<br/><br/>
-
----
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-connect.svg" width="100%" alt="04 — Connect"/>
 
 <div align="center">
-
-> *build relentlessly. ship before you're ready. learn on the edge.*
-
+  <br/>
+  <a href="mailto:adarshjagannath777@gmail.com"><img src="https://img.shields.io/badge/adarshjagannath777@gmail.com-0A0A0C?style=for-the-badge&logo=gmail&logoColor=CCFF00&labelColor=0A0A0C" alt="email"/></a>
+  <a href="https://drive.google.com/file/d/1cLRNEVDIWTJ-z81hik49kTaeRTNehUry/view?usp=sharing"><img src="https://img.shields.io/badge/▶%20Build%20Reel-0A0A0C?style=for-the-badge&logo=googledrive&logoColor=4285F4&labelColor=0A0A0C" alt="build reel"/></a>
+  <a href="https://buymeacoffee.com/adarshjaga9"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0A0A0C?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00&labelColor=0A0A0C" alt="buy me a coffee"/></a>
+  <br/><br/>
 </div>
 
-<br/>
-
-<div align="center">
-<a href="https://buymeacoffee.com/adarshjaga9">
-  <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-09090b?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
-</a>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0f0f1a,100:09090b&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/footer.svg" width="100%" alt="build relentlessly. ship before you're ready. learn on the edge."/>

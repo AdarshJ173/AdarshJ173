@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-work.svg" width="100%" alt="01 — Work"/>
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/sec-work.svg" width="100%" alt="01 — Work"/>
 
 <p align="center">
   <a href="https://oryan.in"><img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/card-oryan.svg" width="49%" alt="oryan.in — SaaS for content creators and scriptwriters"/></a>
@@ -50,7 +50,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-stack.svg" width="100%" alt="02 — Stack"/>
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/sec-stack.svg" width="100%" alt="02 — Stack"/>
 
 <div align="center">
   <br/>
@@ -76,7 +76,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-signals.svg" width="100%" alt="03 — Signals"/>
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/sec-signals.svg" width="100%" alt="03 — Signals"/>
 
 <div align="center">
   <br/>
@@ -92,7 +92,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/h-connect.svg" width="100%" alt="04 — Connect"/>
+<img src="https://raw.githubusercontent.com/AdarshJ173/AdarshJ173/main/assets/sec-connect.svg" width="100%" alt="04 — Connect"/>
 
 <div align="center">
   <br/>
